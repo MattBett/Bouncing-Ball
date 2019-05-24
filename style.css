@@ -1,0 +1,25 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+	font-style: none;
+	text-decoration: none;
+}
+
+body
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+header, footer, section
+{
+	display: flex;
+	flex-direction: column;
+}
+
+canvas
+{
+	margin: 150px;
+}
